@@ -1,0 +1,764 @@
+{
+  "general": [
+    {
+      "name": "Emergency Services (Call Local Number)",
+      "url": "https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers"
+    },
+    {
+      "name": "CDC Symptom Checker",
+      "url": "https://www.cdc.gov/symptoms/index.html"
+    },
+    {
+      "name": "NHS 111 Online",
+      "url": "https://111.nhs.uk/"
+    },
+    {
+      "name": "WHO Health Topics",
+      "url": "https://www.who.int/health-topics"
+    },
+    {
+      "name": "Mayo Clinic Symptom Checker",
+      "url": "https://www.mayoclinic.org/symptom-checker"
+    },
+    {
+      "name": "WebMD Symptom Checker",
+      "url": "https://symptoms.webmd.com/"
+    },
+    {
+      "name": "MedlinePlus Health Information",
+      "url": "https://medlineplus.gov/"
+    },
+    {
+      "name": "American Medical Association",
+      "url": "https://www.ama-assn.org/"
+    }
+  ],
+  "conditions": {
+    "heart attack": [
+      {
+        "name": "American Heart Association: Heart Attack",
+        "url": "https://www.heart.org/en/health-topics/heart-attack"
+      },
+      {
+        "name": "Mayo Clinic: Heart Attack",
+        "url": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106"
+      },
+      {
+        "name": "CDC: Heart Disease",
+        "url": "https://www.cdc.gov/heartdisease/heart_attack.htm"
+      }
+    ],
+    "myocardial infarction": [
+      {
+        "name": "American Heart Association: Heart Attack",
+        "url": "https://www.heart.org/en/health-topics/heart-attack"
+      },
+      {
+        "name": "Mayo Clinic: Heart Attack",
+        "url": "https://www.mayoclinic.org/diseases-conditions/heart-attack/symptoms-causes/syc-20373106"
+      }
+    ],
+    "stroke": [
+      {
+        "name": "Stroke Symptoms and Response",
+        "url": "https://www.stroke.org/en/about-stroke/stroke-symptoms"
+      },
+      {
+        "name": "American Stroke Association",
+        "url": "https://www.stroke.org/"
+      },
+      {
+        "name": "Mayo Clinic: Stroke",
+        "url": "https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113"
+      }
+    ],
+    "cerebrovascular accident": [
+      {
+        "name": "American Stroke Association",
+        "url": "https://www.stroke.org/"
+      },
+      {
+        "name": "Mayo Clinic: Stroke",
+        "url": "https://www.mayoclinic.org/diseases-conditions/stroke/symptoms-causes/syc-20350113"
+      }
+    ],
+    "asthma": [
+      {
+        "name": "Asthma Basics (CDC)",
+        "url": "https://www.cdc.gov/asthma/default.htm"
+      },
+      {
+        "name": "American Lung Association: Asthma",
+        "url": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma"
+      },
+      {
+        "name": "Mayo Clinic: Asthma",
+        "url": "https://www.mayoclinic.org/diseases-conditions/asthma/symptoms-causes/syc-20369653"
+      }
+    ],
+    "pneumonia": [
+      {
+        "name": "Mayo Clinic: Pneumonia",
+        "url": "https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204"
+      },
+      {
+        "name": "American Lung Association: Pneumonia",
+        "url": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia"
+      },
+      {
+        "name": "CDC: Pneumonia",
+        "url": "https://www.cdc.gov/pneumonia/index.html"
+      }
+    ],
+    "covid-19": [
+      {
+        "name": "COVID-19 Guidance (WHO)",
+        "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019"
+      },
+      {
+        "name": "CDC COVID-19 Information",
+        "url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html"
+      },
+      {
+        "name": "Mayo Clinic: COVID-19",
+        "url": "https://www.mayoclinic.org/diseases-conditions/coronavirus/symptoms-causes/syc-20479963"
+      }
+    ],
+    "influenza": [
+      {
+        "name": "CDC: Influenza Information",
+        "url": "https://www.cdc.gov/flu/index.htm"
+      },
+      {
+        "name": "Mayo Clinic: Influenza",
+        "url": "https://www.mayoclinic.org/diseases-conditions/flu/symptoms-causes/syc-20351719"
+      },
+      {
+        "name": "WHO: Influenza",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+      }
+    ],
+    "migraine": [
+      {
+        "name": "American Migraine Foundation",
+        "url": "https://americanmigrainefoundation.org/"
+      },
+      {
+        "name": "Mayo Clinic: Migraine",
+        "url": "https://www.mayoclinic.org/diseases-conditions/migraine-headache/symptoms-causes/syc-20360201"
+      },
+      {
+        "name": "National Headache Foundation",
+        "url": "https://headaches.org/"
+      }
+    ],
+    "tension headache": [
+      {
+        "name": "Mayo Clinic: Tension Headache",
+        "url": "https://www.mayoclinic.org/diseases-conditions/tension-headache/symptoms-causes/syc-20353977"
+      },
+      {
+        "name": "National Headache Foundation",
+        "url": "https://headaches.org/"
+      }
+    ],
+    "diabetes": [
+      {
+        "name": "American Diabetes Association",
+        "url": "https://www.diabetes.org/"
+      },
+      {
+        "name": "CDC Diabetes Information",
+        "url": "https://www.cdc.gov/diabetes/basics/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Diabetes",
+        "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444"
+      }
+    ],
+    "type 1 diabetes": [
+      {
+        "name": "American Diabetes Association: Type 1",
+        "url": "https://www.diabetes.org/diabetes/type-1"
+      },
+      {
+        "name": "Mayo Clinic: Type 1 Diabetes",
+        "url": "https://www.mayoclinic.org/diseases-conditions/type-1-diabetes/symptoms-causes/syc-20353011"
+      }
+    ],
+    "type 2 diabetes": [
+      {
+        "name": "American Diabetes Association: Type 2",
+        "url": "https://www.diabetes.org/diabetes/type-2"
+      },
+      {
+        "name": "Mayo Clinic: Type 2 Diabetes",
+        "url": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193"
+      }
+    ],
+    "hypoglycemia": [
+      {
+        "name": "Mayo Clinic: Hypoglycemia",
+        "url": "https://www.mayoclinic.org/diseases-conditions/hypoglycemia/symptoms-causes/syc-20373685"
+      },
+      {
+        "name": "American Diabetes Association: Hypoglycemia",
+        "url": "https://www.diabetes.org/healthy-living/medication-treatments/blood-glucose-testing-and-control/hypoglycemia"
+      }
+    ],
+    "urinary tract infection": [
+      {
+        "name": "Mayo Clinic: UTI",
+        "url": "https://www.mayoclinic.org/diseases-conditions/urinary-tract-infection/symptoms-causes/syc-20353447"
+      },
+      {
+        "name": "Urology Care Foundation: UTI",
+        "url": "https://www.urologyhealth.org/urologic-conditions/urinary-tract-infections-in-adults"
+      },
+      {
+        "name": "CDC: UTI Information",
+        "url": "https://www.cdc.gov/antibiotic-use/uti.html"
+      }
+    ],
+    "appendicitis": [
+      {
+        "name": "Mayo Clinic: Appendicitis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/appendicitis/symptoms-causes/syc-20369543"
+      },
+      {
+        "name": "Johns Hopkins: Appendicitis",
+        "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/appendicitis"
+      }
+    ],
+    "anxiety": [
+      {
+        "name": "National Institute of Mental Health: Anxiety",
+        "url": "https://www.nimh.nih.gov/health/topics/anxiety-disorders"
+      },
+      {
+        "name": "Anxiety and Depression Association of America",
+        "url": "https://adaa.org/"
+      },
+      {
+        "name": "Mayo Clinic: Anxiety",
+        "url": "https://www.mayoclinic.org/diseases-conditions/anxiety/symptoms-causes/syc-20350961"
+      }
+    ],
+    "panic attack": [
+      {
+        "name": "Anxiety and Depression Association of America: Panic",
+        "url": "https://adaa.org/understanding-anxiety/panic-disorder"
+      },
+      {
+        "name": "Mayo Clinic: Panic Attacks",
+        "url": "https://www.mayoclinic.org/diseases-conditions/panic-attacks/symptoms-causes/syc-20376021"
+      }
+    ],
+    "depression": [
+      {
+        "name": "National Institute of Mental Health: Depression",
+        "url": "https://www.nimh.nih.gov/health/topics/depression"
+      },
+      {
+        "name": "American Psychiatric Association: Depression",
+        "url": "https://www.psychiatry.org/patients-families/depression"
+      },
+      {
+        "name": "Mayo Clinic: Depression",
+        "url": "https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007"
+      }
+    ],
+    "allergic reaction": [
+      {
+        "name": "American Academy of Allergy, Asthma & Immunology",
+        "url": "https://www.aaaai.org/"
+      },
+      {
+        "name": "Mayo Clinic: Allergic Reactions",
+        "url": "https://www.mayoclinic.org/diseases-conditions/allergies/symptoms-causes/syc-20351497"
+      },
+      {
+        "name": "CDC: Allergies",
+        "url": "https://www.cdc.gov/healthyschools/foodallergies/index.htm"
+      }
+    ],
+    "anaphylaxis": [
+      {
+        "name": "Anaphylaxis Campaign",
+        "url": "https://www.anaphylaxis.org.uk/"
+      },
+      {
+        "name": "Mayo Clinic: Anaphylaxis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/anaphylaxis/symptoms-causes/syc-20351468"
+      },
+      {
+        "name": "American Academy of Allergy, Asthma & Immunology: Anaphylaxis",
+        "url": "https://www.aaaai.org/conditions-and-treatments/allergies/anaphylaxis"
+      }
+    ],
+    "dehydration": [
+      {
+        "name": "Mayo Clinic: Dehydration",
+        "url": "https://www.mayoclinic.org/diseases-conditions/dehydration/symptoms-causes/syc-20354086"
+      },
+      {
+        "name": "Cleveland Clinic: Dehydration",
+        "url": "https://my.clevelandclinic.org/health/diseases/9013-dehydration"
+      }
+    ],
+    "sinusitis": [
+      {
+        "name": "Mayo Clinic: Sinusitis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/acute-sinusitis/symptoms-causes/syc-20351671"
+      },
+      {
+        "name": "American Academy of Otolaryngology: Sinusitis",
+        "url": "https://www.enthealth.org/conditions/sinusitis/"
+      }
+    ],
+    "bronchitis": [
+      {
+        "name": "Mayo Clinic: Bronchitis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/bronchitis/symptoms-causes/syc-20355566"
+      },
+      {
+        "name": "American Lung Association: Bronchitis",
+        "url": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/bronchitis"
+      }
+    ],
+    "kidney stones": [
+      {
+        "name": "Mayo Clinic: Kidney Stones",
+        "url": "https://www.mayoclinic.org/diseases-conditions/kidney-stones/symptoms-causes/syc-20355755"
+      },
+      {
+        "name": "National Kidney Foundation: Kidney Stones",
+        "url": "https://www.kidney.org/atoz/content/kidneystones"
+      }
+    ],
+    "gastroenteritis": [
+      {
+        "name": "Mayo Clinic: Gastroenteritis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/viral-gastroenteritis/symptoms-causes/syc-20378847"
+      },
+      {
+        "name": "CDC: Gastroenteritis",
+        "url": "https://www.cdc.gov/norovirus/about/index.html"
+      }
+    ],
+    "food poisoning": [
+      {
+        "name": "Mayo Clinic: Food Poisoning",
+        "url": "https://www.mayoclinic.org/diseases-conditions/food-poisoning/symptoms-causes/syc-20356230"
+      },
+      {
+        "name": "CDC: Food Poisoning",
+        "url": "https://www.cdc.gov/foodsafety/symptoms.html"
+      }
+    ],
+    "otitis media": [
+      {
+        "name": "Mayo Clinic: Ear Infection",
+        "url": "https://www.mayoclinic.org/diseases-conditions/ear-infections/symptoms-causes/syc-20351616"
+      },
+      {
+        "name": "American Academy of Pediatrics: Ear Infections",
+        "url": "https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/Ear-Infections.aspx"
+      }
+    ],
+    "ear infection": [
+      {
+        "name": "Mayo Clinic: Ear Infection",
+        "url": "https://www.mayoclinic.org/diseases-conditions/ear-infections/symptoms-causes/syc-20351616"
+      },
+      {
+        "name": "American Academy of Pediatrics: Ear Infections",
+        "url": "https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/Ear-Infections.aspx"
+      }
+    ],
+    "sprain": [
+      {
+        "name": "Mayo Clinic: Sprains and Strains",
+        "url": "https://www.mayoclinic.org/diseases-conditions/sprains-and-strains/symptoms-causes/syc-20377938"
+      },
+      {
+        "name": "American Academy of Orthopaedic Surgeons: Sprains",
+        "url": "https://orthoinfo.aaos.org/en/diseases--conditions/sprains-strains-and-other-soft-tissue-injuries/"
+      }
+    ],
+    "fracture": [
+      {
+        "name": "American Academy of Orthopaedic Surgeons: Fractures",
+        "url": "https://orthoinfo.aaos.org/en/diseases--conditions/fractures-broken-bones/"
+      },
+      {
+        "name": "Mayo Clinic: Broken Bones",
+        "url": "https://www.mayoclinic.org/first-aid/first-aid-fractures/basics/art-20056641"
+      }
+    ],
+    "back strain": [
+      {
+        "name": "Mayo Clinic: Back Pain",
+        "url": "https://www.mayoclinic.org/diseases-conditions/back-pain/symptoms-causes/syc-20369906"
+      },
+      {
+        "name": "American Academy of Orthopaedic Surgeons: Back Pain",
+        "url": "https://orthoinfo.aaos.org/en/diseases--conditions/low-back-pain/"
+      }
+    ],
+    "arthritis": [
+      {
+        "name": "Arthritis Foundation",
+        "url": "https://www.arthritis.org/"
+      },
+      {
+        "name": "Mayo Clinic: Arthritis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/arthritis/symptoms-causes/syc-20350772"
+      },
+      {
+        "name": "CDC: Arthritis",
+        "url": "https://www.cdc.gov/arthritis/index.htm"
+      }
+    ],
+    "fibromyalgia": [
+      {
+        "name": "Arthritis Foundation: Fibromyalgia",
+        "url": "https://www.arthritis.org/diseases/fibromyalgia"
+      },
+      {
+        "name": "Mayo Clinic: Fibromyalgia",
+        "url": "https://www.mayoclinic.org/diseases-conditions/fibromyalgia/symptoms-causes/syc-20354780"
+      }
+    ],
+    "seizure": [
+      {
+        "name": "Epilepsy Foundation",
+        "url": "https://www.epilepsy.com/"
+      },
+      {
+        "name": "Mayo Clinic: Seizures",
+        "url": "https://www.mayoclinic.org/diseases-conditions/seizure/symptoms-causes/syc-20365711"
+      }
+    ],
+    "epilepsy": [
+      {
+        "name": "Epilepsy Foundation",
+        "url": "https://www.epilepsy.com/"
+      },
+      {
+        "name": "Mayo Clinic: Epilepsy",
+        "url": "https://www.mayoclinic.org/diseases-conditions/epilepsy/symptoms-causes/syc-20350093"
+      }
+    ],
+    "concussion": [
+      {
+        "name": "CDC: Concussion",
+        "url": "https://www.cdc.gov/headsup/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Concussion",
+        "url": "https://www.mayoclinic.org/diseases-conditions/concussion/symptoms-causes/syc-20355594"
+      }
+    ],
+    "meningitis": [
+      {
+        "name": "CDC: Meningitis",
+        "url": "https://www.cdc.gov/meningitis/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Meningitis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/meningitis/symptoms-causes/syc-20350508"
+      }
+    ],
+    "multiple sclerosis": [
+      {
+        "name": "National Multiple Sclerosis Society",
+        "url": "https://www.nationalmssociety.org/"
+      },
+      {
+        "name": "Mayo Clinic: Multiple Sclerosis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269"
+      }
+    ],
+    "parkinson's disease": [
+      {
+        "name": "Parkinson's Foundation",
+        "url": "https://www.parkinson.org/"
+      },
+      {
+        "name": "Mayo Clinic: Parkinson's Disease",
+        "url": "https://www.mayoclinic.org/diseases-conditions/parkinsons-disease/symptoms-causes/syc-20376055"
+      }
+    ],
+    "alzheimer's disease": [
+      {
+        "name": "Alzheimer's Association",
+        "url": "https://www.alz.org/"
+      },
+      {
+        "name": "Mayo Clinic: Alzheimer's Disease",
+        "url": "https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/symptoms-causes/syc-20350447"
+      }
+    ],
+    "dementia": [
+      {
+        "name": "Alzheimer's Association",
+        "url": "https://www.alz.org/"
+      },
+      {
+        "name": "Mayo Clinic: Dementia",
+        "url": "https://www.mayoclinic.org/diseases-conditions/dementia/symptoms-causes/syc-20352013"
+      }
+    ],
+    "gallstones": [
+      {
+        "name": "Mayo Clinic: Gallstones",
+        "url": "https://www.mayoclinic.org/diseases-conditions/gallstones/symptoms-causes/syc-20354214"
+      },
+      {
+        "name": "American College of Gastroenterology: Gallstones",
+        "url": "https://gi.org/topics/gallstones/"
+      }
+    ],
+    "peptic ulcer": [
+      {
+        "name": "Mayo Clinic: Peptic Ulcer",
+        "url": "https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223"
+      },
+      {
+        "name": "American College of Gastroenterology: Peptic Ulcer",
+        "url": "https://gi.org/topics/peptic-ulcer-disease/"
+      }
+    ],
+    "irritable bowel syndrome": [
+      {
+        "name": "Mayo Clinic: IBS",
+        "url": "https://www.mayoclinic.org/diseases-conditions/irritable-bowel-syndrome/symptoms-causes/syc-20360016"
+      },
+      {
+        "name": "American College of Gastroenterology: IBS",
+        "url": "https://gi.org/topics/irritable-bowel-syndrome/"
+      }
+    ],
+    "crohn's disease": [
+      {
+        "name": "Crohn's & Colitis Foundation",
+        "url": "https://www.crohnscolitisfoundation.org/"
+      },
+      {
+        "name": "Mayo Clinic: Crohn's Disease",
+        "url": "https://www.mayoclinic.org/diseases-conditions/crohns-disease/symptoms-causes/syc-20353304"
+      }
+    ],
+    "ulcerative colitis": [
+      {
+        "name": "Crohn's & Colitis Foundation",
+        "url": "https://www.crohnscolitisfoundation.org/"
+      },
+      {
+        "name": "Mayo Clinic: Ulcerative Colitis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/ulcerative-colitis/symptoms-causes/syc-20353326"
+      }
+    ],
+    "hepatitis": [
+      {
+        "name": "CDC: Hepatitis",
+        "url": "https://www.cdc.gov/hepatitis/index.htm"
+      },
+      {
+        "name": "Mayo Clinic: Hepatitis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/hepatitis-a/symptoms-causes/syc-20367007"
+      }
+    ],
+    "pancreatitis": [
+      {
+        "name": "Mayo Clinic: Pancreatitis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/pancreatitis/symptoms-causes/syc-20360227"
+      },
+      {
+        "name": "American College of Gastroenterology: Pancreatitis",
+        "url": "https://gi.org/topics/pancreatitis/"
+      }
+    ],
+    "croup": [
+      {
+        "name": "Mayo Clinic: Croup",
+        "url": "https://www.mayoclinic.org/diseases-conditions/croup/symptoms-causes/syc-20350348"
+      },
+      {
+        "name": "American Academy of Pediatrics: Croup",
+        "url": "https://www.healthychildren.org/English/health-issues/conditions/chest-lungs/Pages/Croup.aspx"
+      }
+    ],
+    "hand foot mouth disease": [
+      {
+        "name": "CDC: Hand, Foot, and Mouth Disease",
+        "url": "https://www.cdc.gov/hand-foot-mouth/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Hand-Foot-and-Mouth Disease",
+        "url": "https://www.mayoclinic.org/diseases-conditions/hand-foot-and-mouth-disease/symptoms-causes/syc-20353035"
+      }
+    ],
+    "roseola": [
+      {
+        "name": "Mayo Clinic: Roseola",
+        "url": "https://www.mayoclinic.org/diseases-conditions/roseola/symptoms-causes/syc-20377283"
+      },
+      {
+        "name": "American Academy of Pediatrics: Roseola",
+        "url": "https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Roseola.aspx"
+      }
+    ],
+    "whooping cough": [
+      {
+        "name": "CDC: Pertussis (Whooping Cough)",
+        "url": "https://www.cdc.gov/pertussis/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Whooping Cough",
+        "url": "https://www.mayoclinic.org/diseases-conditions/whooping-cough/symptoms-causes/syc-20378973"
+      }
+    ],
+    "chickenpox": [
+      {
+        "name": "CDC: Chickenpox",
+        "url": "https://www.cdc.gov/chickenpox/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Chickenpox",
+        "url": "https://www.mayoclinic.org/diseases-conditions/chickenpox/symptoms-causes/syc-20351282"
+      }
+    ],
+    "measles": [
+      {
+        "name": "CDC: Measles",
+        "url": "https://www.cdc.gov/measles/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Measles",
+        "url": "https://www.mayoclinic.org/diseases-conditions/measles/symptoms-causes/syc-20374857"
+      }
+    ],
+    "mumps": [
+      {
+        "name": "CDC: Mumps",
+        "url": "https://www.cdc.gov/mumps/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Mumps",
+        "url": "https://www.mayoclinic.org/diseases-conditions/mumps/symptoms-causes/syc-20375361"
+      }
+    ],
+    "rubella": [
+      {
+        "name": "CDC: Rubella",
+        "url": "https://www.cdc.gov/rubella/index.html"
+      },
+      {
+        "name": "Mayo Clinic: Rubella",
+        "url": "https://www.mayoclinic.org/diseases-conditions/rubella/symptoms-causes/syc-20377310"
+      }
+    ],
+    "osteoporosis": [
+      {
+        "name": "National Osteoporosis Foundation",
+        "url": "https://www.nof.org/"
+      },
+      {
+        "name": "Mayo Clinic: Osteoporosis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/osteoporosis/symptoms-causes/syc-20351968"
+      }
+    ],
+    "age-related macular degeneration": [
+      {
+        "name": "American Macular Degeneration Foundation",
+        "url": "https://www.macular.org/"
+      },
+      {
+        "name": "Mayo Clinic: Macular Degeneration",
+        "url": "https://www.mayoclinic.org/diseases-conditions/wet-macular-degeneration/symptoms-causes/syc-20351107"
+      }
+    ],
+    "hearing loss": [
+      {
+        "name": "American Speech-Language-Hearing Association",
+        "url": "https://www.asha.org/"
+      },
+      {
+        "name": "Mayo Clinic: Hearing Loss",
+        "url": "https://www.mayoclinic.org/diseases-conditions/hearing-loss/symptoms-causes/syc-20373072"
+      }
+    ],
+    "septic shock": [
+      {
+        "name": "Sepsis Alliance",
+        "url": "https://www.sepsis.org/"
+      },
+      {
+        "name": "Mayo Clinic: Sepsis",
+        "url": "https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214"
+      }
+    ],
+    "toxic shock syndrome": [
+      {
+        "name": "Mayo Clinic: Toxic Shock Syndrome",
+        "url": "https://www.mayoclinic.org/diseases-conditions/toxic-shock-syndrome/symptoms-causes/syc-20355384"
+      },
+      {
+        "name": "CDC: Toxic Shock Syndrome",
+        "url": "https://www.cdc.gov/meningitis/bacterial.html"
+      }
+    ],
+    "heat stroke": [
+      {
+        "name": "Mayo Clinic: Heat Stroke",
+        "url": "https://www.mayoclinic.org/diseases-conditions/heat-stroke/symptoms-causes/syc-20353581"
+      },
+      {
+        "name": "CDC: Heat Stress",
+        "url": "https://www.cdc.gov/niosh/topics/heatstress/"
+      }
+    ],
+    "hypothermia": [
+      {
+        "name": "Mayo Clinic: Hypothermia",
+        "url": "https://www.mayoclinic.org/diseases-conditions/hypothermia/symptoms-causes/syc-20352682"
+      },
+      {
+        "name": "CDC: Hypothermia",
+        "url": "https://www.cdc.gov/disasters/winter/staysafe/hypothermia.html"
+      }
+    ],
+    "carbon monoxide poisoning": [
+      {
+        "name": "CDC: Carbon Monoxide Poisoning",
+        "url": "https://www.cdc.gov/co/default.htm"
+      },
+      {
+        "name": "Mayo Clinic: Carbon Monoxide Poisoning",
+        "url": "https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642"
+      }
+    ],
+    "drug overdose": [
+      {
+        "name": "SAMHSA: Overdose Prevention",
+        "url": "https://www.samhsa.gov/find-help/national-helpline"
+      },
+      {
+        "name": "Mayo Clinic: Drug Overdose",
+        "url": "https://www.mayoclinic.org/first-aid/first-aid-poisoning/basics/art-20056607"
+      }
+    ],
+    "alcohol poisoning": [
+      {
+        "name": "Mayo Clinic: Alcohol Poisoning",
+        "url": "https://www.mayoclinic.org/diseases-conditions/alcohol-poisoning/symptoms-causes/syc-20354386"
+      },
+      {
+        "name": "CDC: Alcohol and Public Health",
+        "url": "https://www.cdc.gov/alcohol/index.htm"
+      }
+    ]
+  }
+}
