@@ -79,8 +79,6 @@ def render_suggestions(symptoms_text: str, resources: Dict[str, Any], age: int =
 		confidence_color = "🔴"
 		confidence_message = "Very weak pattern match - please provide more details"
 	
-	# Display confidence indicator
-	st.markdown(f"**Confidence Level:** {confidence_color} {confidence_level} - {confidence_message}")
 	
 	# Enhanced chart and table view
 	chart_cols = st.columns([2, 1])

@@ -74,6 +74,18 @@ def sign_up_with_email(email: str, password: str, name: str = None) -> Dict[str,
 		# This should match your app's URL or a confirmation page
 		redirect_url = os.getenv("SITE_URL", "http://localhost:8501")
 		
+		# For deployed apps, try to detect the current URL
+		if not redirect_url or "localhost" in redirect_url:
+			# Try to get the current URL from Streamlit
+			try:
+				import streamlit as st
+				if hasattr(st, 'get_option') and st.get_option('server.baseUrlPath'):
+					base_url = st.get_option('server.baseUrlPath')
+					if base_url and not base_url.startswith('http'):
+						redirect_url = f"https://{base_url}"
+			except:
+				pass
+		
 		# Prepare user metadata with name if provided
 		user_metadata = {}
 		if name:
